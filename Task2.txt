@@ -1,0 +1,26 @@
+Name: Amir Hossam Eldien Ahmed
+Age:24
+School: KhaledIbnElwaleed 
+College:Canadian International College(Communications and Electronics Engineering Department)
+Experience: Less than one year
+
+List the available shells in your system:
+cat /etc/shells
+
+List the environment variables in your current shell:
+env
+
+List all of the environment variables for the bash shell:
+printenv
+
+display your current shell name : echo $SHELL . Echo $USER
+
+state the initialization files of:
+sh>profile , ksh > .kshrc , bash > .bashrc
+
+Edit your profile to display date at login and change your prompt permanently:
+vi .bashrc > alias Amir='$USER'R
+
+create a bash shell named ls for the "ls -l"command:
+alias detailed_list="ls -l"
+
